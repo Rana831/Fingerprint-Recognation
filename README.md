@@ -4,3 +4,4 @@ based on the comparison of two fingerprints. Fingerprint recognition is one of t
 and it is by far the most used biometric solution for authentication on computerized systems. The reasons for
 fingerprint recognition being so popular are the ease of acquisition, established use and acceptance when
 compared to other biometrics, and the fact that there are numerous (ten) sources of this biometric on everyone.
+Dataset used https://www.kaggle.com/datasets/ruizgara/socofing
